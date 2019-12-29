@@ -1,0 +1,17 @@
+.*
+*.py[co]
+!.gitignore
+!.dockerignore
+!.gitlab-ci.yml
+lib/
+bin/
+conf/certs/
+conf/loh.yml
+data/
+include/
+log/
+pip-selfcheck.json
+pyvenv.cfg
+Scripts/
+share/
+conf/report_src
